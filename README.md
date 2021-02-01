@@ -4,6 +4,9 @@
 
 在线玩：[https://daxigua.liyupi.com](https://daxigua.liyupi.com)
 
+当前版本：
+
+在线玩：[https://illusious.github.io/ecjtu/](https://illusious.github.io/ecjtu/)
 
 ### 本地启动
 
